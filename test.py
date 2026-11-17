@@ -16,4 +16,4 @@ x_train, x_test, y_train, y_test=train_test_split(
 )
 model = LinearRegression()
 model.fit(x_train, y_train)
-print('model training complete')
+print('didace')
